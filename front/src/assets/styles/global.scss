@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: $bg-color;
+  color: $text-primary;
+  line-height: 1.6;
+}
+
+// 通用卡片样式
+.card {
+  background: $card-bg;
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  padding: 24px;
+  transition: all 0.3s ease;
+
+  &:hover {
+    box-shadow: $box-shadow-lg;
+  }
+}
+
+// 页面标题
+.page-title {
+  font-size: 24px;
+  font-weight: 600;
+  color: $text-primary;
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  &::before {
+    content: '';
+    width: 4px;
+    height: 24px;
+    background: $primary-color;
+    border-radius: 2px;
+  }
+}
+
+// 按钮组
+.btn-group {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+// 表格操作按钮
+.table-actions {
+  display: flex;
+  gap: 8px;
+}
+
+// 状态标签
+.status-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 500;
+
+  &.online {
+    background: rgba($success-color, 0.1);
+    color: $success-color;
+  }
+
+  &.offline {
+    background: rgba($danger-color, 0.1);
+    color: $danger-color;
+  }
+
+  &.warning {
+    background: rgba($warning-color, 0.1);
+    color: $warning-color;
+  }
+}

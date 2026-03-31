@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab3902fb-99e8-41b0-a8a3-b1960a45981c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/front" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../编程/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="F:\编程\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="3AKThVks8kkxpcMJYQvJyYvEn9w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/ysl/桌面/文件/垃圾课/毕设/绿型通/绿行通" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab3902fb-99e8-41b0-a8a3-b1960a45981c" name="Default Changelist" comment="" />
+      <created>1772340383527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772340383527</updated>
+      <workItem from="1772340396183" duration="3447000" />
+      <workItem from="1772348110526" duration="1472000" />
+      <workItem from="1772363735619" duration="647000" />
+      <workItem from="1772425341027" duration="11951000" />
+      <workItem from="1772516503180" duration="1006000" />
+      <workItem from="1772521343599" duration="1214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1772443866380">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1772443866380" />
+    <state x="361" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1772444458329">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1772444458329" />
+    <state x="522" y="209" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1772350550246">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="522" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1772350550246" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1772521843984">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1772521843984" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1772449454166">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1772449454166" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1772449454166">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1772449454166" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1772449454165">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1772449454165" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1772449454166">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1772449454166" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1772444187890">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.816@0.0.1536.816" timestamp="1772444187890" />
+  </component>
+</project>
